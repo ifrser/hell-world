@@ -1,2 +1,6 @@
 # hell-world
-Descripting is optional
+
+Let's store
+ideas to apply:
+-- subtitles workaround
+-- TeX formulae operating with huge files
